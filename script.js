@@ -35,7 +35,7 @@ var outer_data_bug=[
       price: 399,
       meterial: "塑膠",
       name: "防蟲葫蘆",
-      img: "images/bugprevent2.jpg",
+      img: "images/bugPrevent2.jpg",
       text: "天然材質，防蟲效果極佳，經實測，放在廚房一個月後，完全看不到蟑螂、螞蟻等蚊蟲了!而且效果能持續三年，真的很實用!",
       add: "+加入購物車",
     }
