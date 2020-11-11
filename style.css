@@ -23,6 +23,8 @@ h1, h2, h3, h4, h5, h6 {
     top: 30%;
   }
 }
+
+
 .nav-item {
   margin-left: 20px
 }
@@ -566,6 +568,8 @@ section#product .photo {
 section#product .photo img {
   width: 70%;
   border-radius: 10px;
+  height: 320px;
+  object-fit: cover;
 }
 section#product .subTitle {
   opacity: 0.6;
